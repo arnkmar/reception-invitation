@@ -365,6 +365,12 @@ img {
 	}
 }
 
+td {
+	text-align: center;
+	justify-content: center;
+	display: flex;
+  }
+
 .overlay-container {
 	position: fixed;
 	top: 0;
